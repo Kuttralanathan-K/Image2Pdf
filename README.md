@@ -9,4 +9,4 @@ REQUIREMENTS:
 
 Clone/Download the project and click on batch file to execute the program.
 
-#The comment part of program creates seperate pdf file per image.
+---> The comment part of program creates seperate pdf file per image.
